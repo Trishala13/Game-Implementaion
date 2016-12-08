@@ -9,7 +9,7 @@ The user ( or player ) can sign-up or login-in( if an account already exists ). 
 1. Install Turbo C++. See [this](http://turboc7.blogspot.in/2011/11/run-full-screen-turbo-c-in-windows-78.html) for more details.
 
 ## Usage
-1. Download all the header files to Include folder in the TC folder.
+1.Download all the header files to Include folder in the TC folder.
 
 2.Download all the text,binary files and Project.cpp to the bin folder in the TC folder.
 
