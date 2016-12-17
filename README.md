@@ -11,7 +11,7 @@ The user ( or player ) can sign-up or login-in( if an account already exists ). 
 ## Usage
 1.Download all the header files to Include folder.
 
-2.Download all the text,binary files and Project.cpp to the bin folder.
+2.Download all the text files, binary files and Project.cpp to the bin folder.
 
 3.Run the  Project.cpp.
 
